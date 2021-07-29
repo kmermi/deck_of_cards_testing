@@ -11,7 +11,7 @@ import static io.restassured.RestAssured.*;
 import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.is;
 
-public class DeckTesting extends TestBase {
+public class DeckTest extends TestBase {
 
     @Test
     public void createADeckWithoutJockerGet() {

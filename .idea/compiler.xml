@@ -6,7 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="homepoint_api_assignment" />
+        <module name="deck_of_cards_testing" />
       </profile>
     </annotationProcessing>
   </component>
