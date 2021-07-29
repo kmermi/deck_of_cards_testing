@@ -6,6 +6,6 @@
 - JUnit as the testing framework
 - mvn surefire plugin for running test cases through mvn
 
-####To start tests, run the following command
+#### To start tests, run the following command
 
 `mvn clean test`
